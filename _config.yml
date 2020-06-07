@@ -1,0 +1,75 @@
+name: 'Project Glass'
+description: "We Don't Kneel"
+meta_description: "Project Glass. We Don't Kneel."
+logo:
+
+# Author image is used in site sidebar and greetings in the home page hero text
+author:
+  image: 'glass.jpg'
+  greetings: "Project Glass is dedicated to finding and exposing the truth about the 2020 protests in the United States."
+favicon: 'assets/images/glass.jpg'
+baseurl:
+production_url: https://project.glass
+disqus:
+mailchimp_url:
+analytics: 64877206
+
+# Contact form settings
+email: hi@project.glass
+
+# Social links
+twitter:
+facebook:
+github:
+codepen:
+dribbble:
+medium:
+instagram:
+pinterest:
+linkedin:
+producthunt:
+quora:
+
+# Navigation
+navigation:
+  - text: Home
+    url: /
+  - text: '<br/>'
+  - text: Statistics
+    url: /categories/statistics/
+  - text: Facts
+    url: /categories/facts/
+  - text: Heroes
+    url: /categories/heroes/
+  - text: Censorship
+    url: /categories/censorship/
+  - text: Kneeling
+    url: /categories/kneeling/
+  - text: '<br/>'
+  - text: About
+    url: /about
+  - text: Join Us
+    url: /join-us
+  - text: Search
+    url: /search
+
+# Required Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Pagination
+paginate: 5
+paginate_path: /page:num/
+
+# Permalinks
+permalink: /:categories/:title
+
+# Other
+markdown: kramdown
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed

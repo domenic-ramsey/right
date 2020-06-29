@@ -7,4 +7,4 @@ Twitter is allowing tag spamming and manipulation, even though it goes against [
 
 Imagine a police officer who sees [\#bluelivesmatter](https://twitter.com/hashtag/BlueLivesMatter) trending, only to realize that it's been spammed by K-Pop bands and Sonic the Hedgehog?
 
-As the time of writing, Twitter only allows pro-leftists tags to "trend."
+At the time of writing, Twitter only allows pro-leftists tags to be listed in "Trending."

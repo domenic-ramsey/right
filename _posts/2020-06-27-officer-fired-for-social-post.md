@@ -22,4 +22,4 @@ Officer Myrick was fired for a Facebook post where he discussed how a real "priv
 
 *Privilege is sending your kids to school early for the before school programs and breakfast, and then keeping them there for the after school program...all at no cost to you...paid for by the people who DO HAVE TO DEAL WITH RISING TAXES AND COSTS!... you know, us so called 'PRIVILEGED' the ones who pay while you TAKE TAKE TAKE!*
 
-[More details here](https://www.lawenforcementtoday.com/officer-fired-for-facebook-post-without-even-a-dialogue/)
+[More details on Law Enforcement Today](https://www.lawenforcementtoday.com/officer-fired-for-facebook-post-without-even-a-dialogue/)

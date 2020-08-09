@@ -3,8 +3,6 @@ layout: post
 title: "George Floyd's Missing Video"
 category: Facts
 featured_image: assets/images/facts/post-george-floyd-missing-video.jpg
-featured: true
-hidden: true
 ---
 Dangerous and unbelievably high - that's how one can describe George Floyd's behavior just before the officer pins him to the ground.
 

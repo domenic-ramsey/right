@@ -46,6 +46,8 @@ navigation:
   - text: Kneeling
     url: /categories/kneeling/
   - text: '<br/>'
+  - text: Opinion
+    url: /categories/opinion/
   - text: About
     url: /about
   - text: Join Us
